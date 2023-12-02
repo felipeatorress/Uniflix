@@ -1,0 +1,10 @@
+name;age;favorites;lastWatched;masterAccount;id
+felipe;999;Pulp Fiction;Pulp Fiction,Stranger Things,Breaking Bad;felipe;1
+joao;20;;;felipe;2
+lucas;23;;Breaking Bad,Stranger Things,Friends;felipe;3
+Marcos;19;Breaking Bad,Planet Earth II,Toy Story;Breaking Bad,Planet Earth II,Toy Story;felipe;4
+Felipe;21;Breaking Bad,Stranger Things;Stranger Things,Breaking Bad,Friends;felipe;5
+João;12;Friends;Friends,Toy Story;felipe;6
+q;999;;;q;7
+Carlos;24;Toy Story;Toy Story;felipe;8
+a;999;Stranger Things;Stranger Things;a;9
